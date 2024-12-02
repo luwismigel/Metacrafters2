@@ -1,6 +1,6 @@
 Overview
 
-AutoTrack is a decentralized application (dApp) designed to track the number of cars entering and exiting a location. It leverages Ethereum smart contracts to maintain a reliable and tamper-proof count of cars. The application provides a user-friendly interface for interacting with the smart contract, allowing users to increment or decrement the car count easily.
+This is a decentralized application (dApp) designed to track the number of cars entering and exiting a location. It leverages Ethereum smart contracts to maintain a reliable and tamper-proof count of cars. The application provides a user-friendly interface for interacting with the smart contract, allowing users to increment or decrement the car count easily.
 
 Features
 
