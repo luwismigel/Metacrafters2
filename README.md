@@ -4,8 +4,8 @@ This is a decentralized application (dApp) designed to track the number of cars 
 
 Features
 
-Car In: Increment the car count.
-Car Out: Decrement the car count.
+Car In: Add the car count.
+Car Out: REduce the car count.
 Real-time Updates: View the current car count in real-time.
 Blockchain Security: Ensures data integrity and security using Ethereum smart contracts.
 
