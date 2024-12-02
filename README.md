@@ -13,7 +13,9 @@ Blockchain Security: Ensures data integrity and security using Ethereum smart co
 Prerequisites
 
 Node.js
+
 MetaMask browser extension
+
 Hardhat for Ethereum development
 
 Author: 
